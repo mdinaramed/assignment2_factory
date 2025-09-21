@@ -1,2 +1,2 @@
 package pizza;
-public enum Region { Astana, Aktobe, Almaty, Shymkent }
+public enum Region { USA, KAZAKHSTAN }
